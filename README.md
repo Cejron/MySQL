@@ -142,8 +142,10 @@ mysql>`desc user;`查看user表结构
 
 删除
 `HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\Eventlog\Application\MySQLD Service`文件夹
+
 删除
 `HKEY_LOCAL_MACHINE\SYSTEM\ControlSet002\Services\Eventlog\Application\MySQLD Service`文件夹
+
 删除
 `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Eventlog\Application\MySQLD Service`的文件夹
 
